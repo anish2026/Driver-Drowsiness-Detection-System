@@ -18,3 +18,8 @@ The major library used in this project is openCV . It is library of Python desig
 Pygame library has been used to play the alarm. 
 
 Tkinter library has been used to design the interface of the project.
+
+
+
+![image](https://user-images.githubusercontent.com/98420946/189584665-eb214455-a53c-40b0-a403-f4a2bb42eb9f.png)
+
